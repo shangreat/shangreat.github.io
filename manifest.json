@@ -1,11 +1,11 @@
 {
-    "name": "Al Rawabi LLC",
-    "short_name": "Al Rawabi LLC",
+    "name": "alrawabillc",
+    "short_name": "alrawabillc",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Al Rawabi LLC Project.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
